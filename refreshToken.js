@@ -2,11 +2,11 @@ const { default: axios } = require("axios");
 
 function get_access_token_using_saved_refresh_token() {
     // from the oauth playground
-    const refresh_token = "1//04aFOGxfAxMZtCgYIARAAGAQSNwF-L9IrWPZ2zuOpJafvhk-6_yEBWhZdTrcNuXg9OEK0Z26oCKPRm9cptmd2ReW4vszdWQioxvQ"
+    const refresh_token = ""
     // from the API console
-    const client_id = "987087938186-bfbq0f9mfhsft68j79qnuukgq37tv47v.apps.googleusercontent.com";
+    const client_id = "";
     // from the API console
-    const client_secret = "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";
+    const client_secret = "";
     // from https://developers.google.com/identity/protocols/OAuth2WebServer#offline
     const refresh_url = "https://www.googleapis.com/oauth2/v4/token";
 
