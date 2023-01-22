@@ -2,10 +2,10 @@ const axios = require("axios")
 const fs = require("fs")
 
 
-const refreshToken = "1//04aFOGxfAxMZtCgYIARAAGAQSNwF-L9IrWPZ2zuOpJafvhk-6_yEBWhZdTrcNuXg9OEK0Z26oCKPRm9cptmd2ReW4vszdWQioxvQ"
-const accessToken = "ya29.a0AX9GBdWo_w9geZ0gXxyaGVmuqHkgCKsdRgnaAOVgsgMO9PfqRhMo70gVEZ2Cc1fCYHfV8gpBBuuOG-h5a4Ajcf0HsO13_rbDBwRkQ04dTUyGwj6fRk7PxDf1Nij10YtKkSKMQUT7xXWhEcyVJCuypgfnIxBozAYUaCgYKAWISAQASFQHUCsbCA7W1rlou-hagHDDqHeyVuA0167"
+const refreshToken = ""
+const accessToken = ""
 const time = 3600
-const apiKey = "AIzaSyAQnyqE_nMwLN0QXJnnHPVVk7-7hREp4rg"
+const apiKey = ""
 const file_name = "Stack.jpg"
 
 
